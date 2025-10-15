@@ -9,5 +9,7 @@ namespace Praktika1Ava.Data
     internal class CurrentUser
     {
         public static User currentUser;
+
+
     }
 }

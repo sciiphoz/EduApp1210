@@ -4,4 +4,33 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="Praktika1Ava.RegisterPage">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+		</Grid.RowDefinitions>
+
+		<StackPanel Grid.Row="1" Width="400">
+			<TextBlock>Name</TextBlock>
+			<TextBox x:Name="userName"/>
+		</StackPanel>
+		<StackPanel Grid.Row="2" Width="400">
+			<TextBlock>Login</TextBlock>
+			<TextBox x:Name="userLogin"/>
+		</StackPanel>
+		<StackPanel Grid.Row="3" Width="400">
+			<TextBlock>Password</TextBlock>
+			<TextBox x:Name="userPassword"/>
+		</StackPanel>
+		<StackPanel Grid.Row="4" Width="400">
+			<TextBlock>Confirm password</TextBlock>
+			<TextBox x:Name="confirmPassword"/>
+		</StackPanel>
+
+		<Button x:Name="btnSubmit" Grid.Row="5" HorizontalAlignment="Center" Width="125" HorizontalContentAlignment="Center" Click="btnSubmit_Click">Authorize</Button>
+	</Grid>
 </UserControl>

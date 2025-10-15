@@ -14,15 +14,16 @@ namespace Praktika1Ava.Views
         public MainWindow()
         {
             InitializeComponent();
+
         }
 
-        private void btnUsers_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+        private void btnAuth_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
         {
-            MainContentControl.Content = new UsersPage();
+            MainContentControl.Content = new AuthPage();
         }
-        private void btnItems_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+        private void btnReg_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
         {
-            MainContentControl.Content = new ItemsPage();
+            MainContentControl.Content = new RegisterPage();
         }
 
         public void EditItem(Item item)

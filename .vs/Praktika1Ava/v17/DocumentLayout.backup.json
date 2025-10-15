@@ -1,50 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\212202\\Desktop\\EduApp\\",
+  "WorkspaceRootPath": "C:\\Users\\212202\\Desktop\\EduApp1210\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\data\\itemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\data\\itemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\navigationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\navigationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\navigationwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\navigationwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\pages\\authpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\authpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\pages\\registerpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\registerpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\pages\\registerpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\registerpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\pages\\authpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\authpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\authpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\pages\\itemspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\itemspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\pages\\itemspage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\itemspage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\registerpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\registerpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp\\praktika1ava\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\adduserwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\adduserwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\registerpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\registerpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\authpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\authpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\userspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\userspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\userspage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\userspage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\usereditwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\usereditwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\itemeditwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\itemeditwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\additemwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\additemwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\pages\\itemspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\pages\\itemspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|c:\\users\\212202\\desktop\\eduapp1210\\praktika1ava\\views\\itemeditwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D087099A-455A-4840-9A58-7ABA102CAAAD}|Praktika1Ava\\Praktika1Ava.csproj|solutionrelative:praktika1ava\\views\\itemeditwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,143 +83,220 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Views\\MainWindow.axaml.cs",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Views\\MainWindow.axaml.cs",
-              "RelativeToolTip": "Praktika1Ava\\Views\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T16:45:19.945Z",
+              "Title": "AuthPage.axaml",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\AuthPage.axaml",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\AuthPage.axaml",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\AuthPage.axaml",
+              "RelativeToolTip": "Praktika1Ava\\Pages\\AuthPage.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T13:43:24.94Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Views\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Views\\MainWindow.axaml",
-              "RelativeToolTip": "Praktika1Ava\\Views\\MainWindow.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-13T15:30:49.583Z",
-              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ItemsPage.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
-              "RelativeToolTip": "Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T14:42:25.799Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ItemsPage.axaml",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\ItemsPage.axaml",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\ItemsPage.axaml",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\ItemsPage.axaml",
-              "RelativeToolTip": "Praktika1Ava\\Pages\\ItemsPage.axaml",
+              "Title": "RegisterPage.axaml",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\RegisterPage.axaml",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\RegisterPage.axaml",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\RegisterPage.axaml",
+              "RelativeToolTip": "Praktika1Ava\\Pages\\RegisterPage.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-14T14:42:26.128Z",
+              "WhenOpened": "2025-10-15T13:43:28.344Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Data\\Item.cs",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Data\\Item.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Data\\Item.cs",
-              "RelativeToolTip": "Praktika1Ava\\Data\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T16:22:53.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItemsContext.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Data\\ItemsContext.cs",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Data\\ItemsContext.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Data\\ItemsContext.cs",
-              "RelativeToolTip": "Praktika1Ava\\Data\\ItemsContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T16:22:52.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Data\\User.cs",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Data\\User.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Data\\User.cs",
-              "RelativeToolTip": "Praktika1Ava\\Data\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T16:22:46.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RegisterPage.axaml",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\RegisterPage.axaml",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\RegisterPage.axaml",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\RegisterPage.axaml",
-              "RelativeToolTip": "Praktika1Ava\\Pages\\RegisterPage.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-14T16:18:20.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "RegisterPage.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\RegisterPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\RegisterPage.axaml.cs",
               "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\RegisterPage.axaml.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\RegisterPage.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\RegisterPage.axaml.cs",
               "RelativeToolTip": "Praktika1Ava\\Pages\\RegisterPage.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T16:18:20.481Z",
+              "WhenOpened": "2025-10-15T13:43:30.883Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthPage.axaml",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\AuthPage.axaml",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\AuthPage.axaml",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\AuthPage.axaml",
-              "RelativeToolTip": "Praktika1Ava\\Pages\\AuthPage.axaml",
+              "Title": "AuthPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\AuthPage.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\AuthPage.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\AuthPage.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Pages\\AuthPage.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:43:35.227Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Praktika1Ava\\Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-14T16:17:53.139Z",
+              "WhenOpened": "2025-10-15T14:18:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavigationWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\NavigationWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\NavigationWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\NavigationWindow.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Views\\NavigationWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:17:54.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:17:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\NavigationWindow.axaml",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\NavigationWindow.axaml",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\NavigationWindow.axaml*",
+              "RelativeToolTip": "Praktika1Ava\\Views\\NavigationWindow.axaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T14:18:42.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AuthPage.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\AuthPage.axaml.cs",
-              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\AuthPage.axaml.cs",
-              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp\\Praktika1Ava\\Pages\\AuthPage.axaml.cs",
-              "RelativeToolTip": "Praktika1Ava\\Pages\\AuthPage.axaml.cs",
+              "Title": "AddUserWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\AddUserWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\AddUserWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\AddUserWindow.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Views\\AddUserWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:17:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\UsersPage.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\UsersPage.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\UsersPage.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Pages\\UsersPage.axaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:18:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersPage.axaml",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\UsersPage.axaml",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\UsersPage.axaml",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\UsersPage.axaml",
+              "RelativeToolTip": "Praktika1Ava\\Pages\\UsersPage.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T14:18:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\App.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\App.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\App.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T16:17:53.027Z",
+              "WhenOpened": "2025-10-15T14:18:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserEditWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\UserEditWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\UserEditWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\UserEditWindow.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Views\\UserEditWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:17:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddItemWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\AddItemWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\AddItemWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\AddItemWindow.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Views\\AddItemWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:17:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemsPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Pages\\ItemsPage.axaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:17:09.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemEditWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\ItemEditWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\ItemEditWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\ItemEditWindow.axaml.cs",
+              "RelativeToolTip": "Praktika1Ava\\Views\\ItemEditWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:45:03.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemEditWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\ItemEditWindow.axaml",
+              "RelativeDocumentMoniker": "Praktika1Ava\\Views\\ItemEditWindow.axaml",
+              "ToolTip": "C:\\Users\\212202\\Desktop\\EduApp1210\\Praktika1Ava\\Views\\ItemEditWindow.axaml",
+              "RelativeToolTip": "Praktika1Ava\\Views\\ItemEditWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T13:43:53.387Z",
               "EditorCaption": ""
             }
           ]

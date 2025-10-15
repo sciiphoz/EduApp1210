@@ -15,38 +15,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Praktika1Ava
-build_property.ProjectDir = C:\Users\212202\Desktop\EduApp\Praktika1Ava\
+build_property.ProjectDir = C:\Users\212202\Desktop\EduApp1210\Praktika1Ava\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/App.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Pages/AddItemPage.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Pages/AuthPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Pages/AddUserPage.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Pages/ItemsPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Pages/ItemsPage.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Pages/RegisterPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Pages/UsersPage.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Pages/UsersPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Views/AddItemWindow.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Views/AddItemWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Views/AddUserWindow.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Views/AddUserWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Views/ItemEditWindow.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Views/ItemEditWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Views/MainWindow.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/212202/Desktop/EduApp/Praktika1Ava/Views/UserEditWindow.axaml]
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Views/NavigationWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/212202/Desktop/EduApp1210/Praktika1Ava/Views/UserEditWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

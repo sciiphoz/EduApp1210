@@ -4,4 +4,23 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="Praktika1Ava.AuthPage">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+		</Grid.RowDefinitions>
+
+		<StackPanel Grid.Row="1" Width="400">
+			<TextBlock>Login</TextBlock>
+			<TextBox x:Name="userLogin"/>
+		</StackPanel>
+		<StackPanel Grid.Row="2" Width="400">
+			<TextBlock>Password</TextBlock>
+			<TextBox x:Name="userPassword"/>
+		</StackPanel>
+
+		<Button x:Name="btnSubmit" Grid.Row="3" HorizontalAlignment="Center" Width="125" HorizontalContentAlignment="Center" Click="btnSubmit_Click">Authorize</Button>
+	</Grid>
 </UserControl>

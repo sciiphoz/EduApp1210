@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Praktika1Ava",
+    "\\Praktika1Ava\\Data",
     "\\Praktika1Ava\\Views"
   ],
-  "SelectedNode": "\\Praktika1Ava\\Views\\UserEditWindow.axaml.cs",
+  "SelectedNode": "\\Praktika1Ava\\Data\\CurrentUser.cs",
   "PreviewInSolutionExplorer": false
 }
