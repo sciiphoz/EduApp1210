@@ -20,12 +20,14 @@ public partial class AddItemWindow : Window
         var id = Convert.ToInt32(App.dbContext.Items.Max(x => x.Id).ToString()) + 1;
         var name = tbName.Text;
         var desc = tbDesc.Text;
+        var price = Convert.ToInt32(tbPrice.Text);
 
         var newItem = new Item()
         {
             Id = id,
             Name = name,
             Desc = desc,
+            Price = price,
         };
 
         App.dbContext.Items.Add(newItem);

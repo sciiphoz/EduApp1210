@@ -14,8 +14,8 @@
 		</Grid.RowDefinitions>
 
 		<StackPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
-			<Button x:Name="btnAuth" Width="75" HorizontalContentAlignment="Center" Margin="0 0 25 0" Click="btnAuth_Click" Content="Authorize"></Button>
-			<Button x:Name="btnReg" Width="75" HorizontalContentAlignment="Center" Margin="25 0 25 0" Click="btnReg_Click" Content="Register"></Button>
+			<Button x:Name="btnAuth" Width="150" Height="50" HorizontalContentAlignment="Center" Margin="0 0 25 0" Click="btnAuth_Click" Content="Authorize"></Button>
+			<Button x:Name="btnReg" Width="150" Height="50" HorizontalContentAlignment="Center" Margin="25 0 25 0" Click="btnReg_Click" Content="Register"></Button>
 	
 		</StackPanel>
 
