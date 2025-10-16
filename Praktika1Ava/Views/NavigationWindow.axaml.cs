@@ -10,6 +10,8 @@ public partial class NavigationWindow : Window
     public NavigationWindow()
     {
         InitializeComponent();
+
+        userName.Text = CurrentUser.currentUser.Name;
     }
 
     private void btnUsers_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
@@ -17,6 +19,10 @@ public partial class NavigationWindow : Window
         MainContentControl.Content = new UsersPage();
     }
     private void btnItems_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+        MainContentControl.Content = new ItemsPage();
+    }
+    private void btnBasket_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
         MainContentControl.Content = new ItemsPage();
     }

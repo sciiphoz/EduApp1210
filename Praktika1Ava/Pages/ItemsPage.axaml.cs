@@ -3,6 +3,7 @@ using Avalonia.Controls;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
+using MsBox.Avalonia;
 using Praktika1Ava.Data;
 using Praktika1Ava.Views;
 using System.Linq;
@@ -42,17 +43,28 @@ public partial class ItemsPage : UserControl
         MainDataGrid.ItemsSource = App.dbContext.Items.ToList();
     }
 
-    private void btnDelete_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    private async void btnDelete_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
-        var selectedItem = MainDataGrid.SelectedItem as Item;
+        var box = MessageBoxManager.GetMessageBoxStandard("Предупреждение", "Вы точно хотите удалить?", MsBox.Avalonia.Enums.ButtonEnum.YesNo);
 
-        if (selectedItem == null) return;
+        var result = await box.ShowAsync();
 
-        App.dbContext.Items.Remove(selectedItem);
-        App.dbContext.SaveChanges();
+        if (result == MsBox.Avalonia.Enums.ButtonResult.Yes)
+        {
+            var selectedItem = MainDataGrid.SelectedItem as Item;
 
-        MainDataGrid.Columns.Clear();
+            if (selectedItem == null) return;
 
-        MainDataGrid.ItemsSource = App.dbContext.Items.ToList();
+            App.dbContext.Items.Remove(selectedItem);
+            App.dbContext.SaveChanges();
+
+            MainDataGrid.Columns.Clear();
+
+            MainDataGrid.ItemsSource = App.dbContext.Items.ToList();
+        }
+        else
+        {
+            return;
+        }
     }
 }

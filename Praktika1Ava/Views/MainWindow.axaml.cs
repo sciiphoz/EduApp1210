@@ -15,6 +15,7 @@ namespace Praktika1Ava.Views
         {
             InitializeComponent();
 
+            MainContentControl.Content = new AuthPage();
         }
 
         private void btnAuth_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)

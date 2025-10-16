@@ -2,6 +2,7 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
+using MsBox.Avalonia;
 using Praktika1Ava.Data;
 using Praktika1Ava.Views;
 using System.Linq;
@@ -41,17 +42,28 @@ public partial class UsersPage : UserControl
         MainDataGrid.ItemsSource = App.dbContext.Users.ToList();
     }
 
-    private void btnDelete_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    private async void btnDelete_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
-        var selectedUser = MainDataGrid.SelectedItem as User;
+        var box = MessageBoxManager.GetMessageBoxStandard("Предупреждение", "Вы точно хотите удалить?", MsBox.Avalonia.Enums.ButtonEnum.YesNo);
 
-        if (selectedUser == null) return;
+        var result = await box.ShowAsync();
 
-        App.dbContext.Users.Remove(selectedUser);
-        App.dbContext.SaveChanges();
+        if (result == MsBox.Avalonia.Enums.ButtonResult.Yes)
+        {
+            var selectedUser = MainDataGrid.SelectedItem as User;
 
-        MainDataGrid.Columns.Clear();
+            if (selectedUser == null) return;
 
-        MainDataGrid.ItemsSource = App.dbContext.Users.ToList();
+            App.dbContext.Users.Remove(selectedUser);
+            App.dbContext.SaveChanges();
+
+            MainDataGrid.Columns.Clear();
+
+            MainDataGrid.ItemsSource = App.dbContext.Users.ToList();
+        }
+        else
+        {
+            return;
+        }
     }
 }

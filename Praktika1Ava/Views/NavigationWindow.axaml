@@ -12,9 +12,10 @@
 		</Grid.RowDefinitions>
 
 		<StackPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
-			<Button x:Name="btnUsers" Width="75" HorizontalContentAlignment="Center" Margin="0 0 25 0" Click="btnUsers_Click" Content="Users"></Button>
-			<Button x:Name="btnItems" Width="75" HorizontalContentAlignment="Center" Margin="25 0 25 0" Click="btnItems_Click" Content="Items"></Button>
-
+			<Button x:Name="btnUsers" Width="90" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0 0 25 0" Click="btnUsers_Click" Content="Users"></Button>
+			<Button x:Name="btnItems" Width="90" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="25 0 25 0" Click="btnItems_Click" Content="Items"></Button>
+			<Button x:Name="btnBasket" Width="90" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="25 0 25 0" Click="btnBasket_Click" Content="Basket"></Button>
+			<TextBlock x:Name="userName" VerticalAlignment="Center" FontSize="24" Margin="0 0 25 0"></TextBlock>
 		</StackPanel>
 
 		<ContentControl x:Name="MainContentControl" Grid.Row="1">

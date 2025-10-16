@@ -31,6 +31,6 @@
 			<TextBox x:Name="confirmPassword"/>
 		</StackPanel>
 
-		<Button x:Name="btnSubmit" Grid.Row="5" HorizontalAlignment="Center" Width="125" HorizontalContentAlignment="Center" Click="btnSubmit_Click">Authorize</Button>
+		<Button x:Name="btnSubmit" Grid.Row="5" HorizontalAlignment="Center" Width="125" HorizontalContentAlignment="Center" Click="btnSubmit_Click">Register</Button>
 	</Grid>
 </UserControl>

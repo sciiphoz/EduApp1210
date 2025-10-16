@@ -19,6 +19,10 @@ public partial class AuthPage : UserControl
         if (App.dbContext.Users.FirstOrDefault(x => x.Login == userLogin.Text && x.Password == userPassword.Text) != null)
         {
             CurrentUser.currentUser = App.dbContext.Users.FirstOrDefault(x => x.Login == userLogin.Text && x.Password == userPassword.Text);
+            var parent = this.VisualRoot as Window;
+            var nav = new NavigationWindow();
+            nav.Show();
+            parent.Close();
         }
         else
         {

@@ -1,8 +1,10 @@
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
+using MsBox.Avalonia;
 using Praktika1Ava.Data;
 using Praktika1Ava.Views;
+using System.Threading.Tasks;
 
 namespace Praktika1Ava;
 
@@ -29,14 +31,25 @@ public partial class UserEditWindow : Window
         tbLogin.Text = user.Login;
     }
 
-    private void btnSave_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    private async void btnSave_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
-        currentUser.Name = tbName.Text;
-        currentUser.Login = tbLogin.Text;
+        var box = MessageBoxManager.GetMessageBoxStandard("Предупреждение", "Вы точно хотите сохранить?", MsBox.Avalonia.Enums.ButtonEnum.YesNo);
 
-        App.dbContext.Users.Update(currentUser);
-        App.dbContext.SaveChanges();
+        var result = await box.ShowAsync();
 
-        Close();
+        if (result == MsBox.Avalonia.Enums.ButtonResult.Yes)
+        {
+            currentUser.Name = tbName.Text;
+            currentUser.Login = tbLogin.Text;
+
+            App.dbContext.Users.Update(currentUser);
+            App.dbContext.SaveChanges();
+
+            Close();
+        }
+        else
+        {
+            Close();
+        }
     }
 }

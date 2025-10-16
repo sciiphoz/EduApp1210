@@ -22,7 +22,7 @@ public partial class RegisterPage : UserControl
             {
                 var newUser = new User()
                 {
-                    Id = Convert.ToInt32(App.dbContext.Users.Max(x => x.Id).ToString()) + 1,
+                    Id = App.dbContext.Users.Any() == false ? 1 : Convert.ToInt32(App.dbContext.Users.Max(x => x.Id).ToString()) + 1,
                     Name = userName.Text,
                     Login = userLogin.Text,
                     Password = userPassword.Text
