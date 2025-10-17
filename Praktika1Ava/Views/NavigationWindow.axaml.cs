@@ -12,6 +12,11 @@ public partial class NavigationWindow : Window
         InitializeComponent();
 
         userName.Text = CurrentUser.currentUser.Name;
+    
+        if (CurrentUser.currentUser.Role == 0)
+        {
+            btnUsers.IsVisible = false;
+        } 
     }
 
     private void btnUsers_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
@@ -24,7 +29,7 @@ public partial class NavigationWindow : Window
     }
     private void btnBasket_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
-        MainContentControl.Content = new ItemsPage();
+        MainContentControl.Content = new BasketPage();
     }
 
     public void EditItem(Item item)

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Praktika1Ava.Data
 {
-    internal class CurrentUser
+    internal class ContextUserItem
     {
-        public static User currentUser;
+        public static UserItem useritem { get; set; }
     }
 }

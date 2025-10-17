@@ -20,8 +20,9 @@
 		</DataGrid>
 
 		<StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
-			<Button x:Name="btnAdd" Width="75" HorizontalContentAlignment="Center" Margin="25 0 25 0" Click="btnAdd_Click" Content="Add"></Button>
-			<Button x:Name="btnDelete" Width="75" HorizontalContentAlignment="Center" Margin="25 0 0 0" Click="btnDelete_Click" Content="Delete"></Button>		
+			<Button x:Name="btnAdd" Width="75" HorizontalContentAlignment="Center" Margin="0 0 25 0" Click="btnAdd_Click" Content="Add"></Button>
+			<Button x:Name="btnDelete" Width="75" HorizontalContentAlignment="Center" Margin="25 0 25 0" Click="btnDelete_Click" Content="Delete"></Button>		
+			<Button x:Name="btnAddToBasket" Width="125" HorizontalContentAlignment="Center" Margin="25 0 0 0" Click="btnAddToBasket_Click" Content="Add to basket"></Button>		
 		</StackPanel>
 	</Grid>
 </UserControl>

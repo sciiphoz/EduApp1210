@@ -19,8 +19,10 @@ public partial class ItemsContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
+    public virtual DbSet<UserItem> UserItems { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Praktika1;Username=postgres;Password=123");
+        => optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Praktika1;Username=postgres;Password=12345");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -43,6 +45,30 @@ public partial class ItemsContext : DbContext
             entity.Property(e => e.Login).HasMaxLength(50);
             entity.Property(e => e.Name).HasMaxLength(50);
             entity.Property(e => e.Password).HasMaxLength(50);
+        });
+
+        modelBuilder.Entity<UserItem>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("User_Item_pkey");
+
+            entity.ToTable("User_Item");
+
+            entity.Property(e => e.ItemId)
+                .ValueGeneratedOnAdd()
+                .HasColumnName("Item_Id");
+            entity.Property(e => e.UserId)
+                .ValueGeneratedOnAdd()
+                .HasColumnName("User_Id");
+
+            entity.HasOne(d => d.Item).WithMany(p => p.UserItems)
+                .HasForeignKey(d => d.ItemId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("User_Item_Item_Id_fkey");
+
+            entity.HasOne(d => d.User).WithMany(p => p.UserItems)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("User_Item_User_Id_fkey");
         });
 
         OnModelCreatingPartial(modelBuilder);

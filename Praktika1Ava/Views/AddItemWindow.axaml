@@ -12,6 +12,7 @@
 			<RowDefinition></RowDefinition>
 			<RowDefinition></RowDefinition>
 			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
 		</Grid.RowDefinitions>
 
 		<StackPanel Grid.Row="1" Width="400">
@@ -22,11 +23,11 @@
 			<TextBlock>Desc</TextBlock>
 			<TextBox x:Name="tbDesc"/>
 		</StackPanel>		
-		<StackPanel Grid.Row="2" Width="400">
+		<StackPanel Grid.Row="3" Width="400">
 			<TextBlock>Price</TextBlock>
 			<TextBox x:Name="tbPrice"/>
 		</StackPanel>
 
-		<Button x:Name="btnSave" Grid.Row="3" HorizontalAlignment="Center" Width="75" HorizontalContentAlignment="Center" Click="btnSave_Click">Save</Button>
+		<Button x:Name="btnSave" Grid.Row="4" HorizontalAlignment="Center" Width="75" HorizontalContentAlignment="Center" Click="btnSave_Click">Save</Button>
 	</Grid>
 </Window>

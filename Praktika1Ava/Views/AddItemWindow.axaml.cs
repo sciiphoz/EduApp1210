@@ -17,7 +17,7 @@ public partial class AddItemWindow : Window
 
     private void btnSave_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
-        var id = Convert.ToInt32(App.dbContext.Items.Max(x => x.Id).ToString()) + 1;
+        var id = App.dbContext.Items.Any() == false ? 1 : Convert.ToInt32(App.dbContext.Items.Max(x => x.Id).ToString()) + 1;
         var name = tbName.Text;
         var desc = tbDesc.Text;
         var price = Convert.ToInt32(tbPrice.Text);
